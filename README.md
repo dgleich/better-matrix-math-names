@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## The idea
 
-You can use the [editor on GitHub](https://github.com/dgleich/better-matrix-math-names/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Many terms used in matrix computations are named after individuals. The goal of this repository is to provide a series of suggestions for alternative phrases that are technically correct and perhaps more intuitive descriptions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Factorizations
 
-### Markdown
+### Gaussian Elimination
+Sequential variable elimination 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Cholesky 
+LLt factorization 
 
-```markdown
-Syntax highlighted code block
+### Jordan Canonical Form
+invariant subspace decomposition
+: *Justification* 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Boundary conditions
 
-1. Numbered
-2. List
+### Dirichlet boundaries
+fixed value boundaries 
 
-**Bold** and _Italic_ and `Code` text
+### Neumann boundaries
+fixed derivative boundaries
 
-[Link](url) and ![Image](src)
-```
+## Iterative methods
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## People
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dgleich/better-matrix-math-names/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+So far, this includes ideas from
+- Austin R. Benson
+- David F. Gleich
