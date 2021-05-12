@@ -14,6 +14,11 @@ LLt factorization
 invariant subspace decomposition
 : *Justification* 
 
+## Matrices
+
+### Householder reflector
+Just reflector will do nicely, or
+single coordinate reflector.
 
 ## Boundary conditions
 
@@ -24,6 +29,17 @@ fixed value boundaries
 fixed derivative boundaries
 
 ## Iterative methods
+
+### Gauss-Seidel
+cyclical coordinate relax-and-solve
+
+### MINRES
+minimum residual method (for symmetric matrices) (no need!)
+
+### GMRES
+also great!
+
+
 
 
 ## People
